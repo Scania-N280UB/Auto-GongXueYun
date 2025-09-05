@@ -1,18 +1,18 @@
 [
   {
-    "remark": "自定义用户备注名称",
-    "phone": "手机号",
-    "password": "密码",
-    "province": "xx省",
-    "city": "xx市",
-    "area": "xx区",
-    "address": "最终打卡页面显示的文字，xx省 · xx市 · 某路边",
-    "longitude": "经度(精确到小数点后六位)",
-    "latitude": "纬度(精确到小数点后六位)",
+    "remark": "李佳铭",
+    "phone": "13591424392",
+    "password": "Ln200596",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "area": "大东区",
+    "address": "辽宁省沈阳市大东区望花中街路边",
+    "longitude": "123.480521",
+    "latitude": "41.852588 ",
     "randomLocation": true,
     "enable": true,
-    "desc": "打卡备注",
-    "pushKey": "pushplus官网获取的key，需要实名"
+    "desc": "打卡",
+    "pushKey": "ogIU752VrrlJqe5s2m0ab43SvQ_s"
   }
 
 ]
